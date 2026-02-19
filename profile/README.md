@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2bcf8868-d900-47ca-9b76-2c1362040508.jpg;maxHeight=1920;maxWidth=900?format=webp" width="824" alt="Interface"/>
+<img src="https://dr5dymrsxhdzh.cloudfront.net/blog/images/a4acc3edb/2021/02/quickenwillmaker2.png" width="824" alt="Interface"/>
 
 </div>
 
